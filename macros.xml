@@ -1,0 +1,48 @@
+<application>
+  <component name="ActionMacroManager">
+    <macro name="test1">
+      <typing text-keycode="84:1;72:0;73:0">Thi</typing>
+      <action id="EditorBackSpace" />
+      <action id="EditorBackSpace" />
+      <action id="EditorBackSpace" />
+      <typing text-keycode="67:1;76:0;65:0;83:0;83:0;91:1">Class{</typing>
+      <action id="EditorBackSpace" />
+      <typing text-keycode="32:0;44:1">&amp;#x20;&lt;</typing>
+      <action id="EditorBackSpace" />
+      <typing text-keycode="65:1;78:1;89:1;78:1;65:1;77:1;69:1;32:1">ANYNAME&amp;#x20;</typing>
+      <action id="EditorBackSpace" />
+      <typing text-keycode="45:1;72:1;69:1;82:1;69:1;32:1;91:1">_HERE&amp;#x20;{</typing>
+      <action id="EditorEnter" />
+      <action id="EditorEnter" />
+      <typing text-keycode="93:1">}</typing>
+      <action id="EditorUp" />
+      <action id="EditorTab" />
+      <typing text-keycode="45:1;45:1;67:1;79:1;78:1;83:1;84:1;82:1;85:1;67:1;84:1;79:1;82:1;57:1;45:1;48:1">__CONSTRUCTOR(_)</typing>
+      <action id="EditorBackSpace" />
+      <action id="EditorBackSpace" />
+      <typing text-keycode="48:1;91:1">){</typing>
+      <action id="EditorEnter" />
+      <action id="EditorEnter" />
+      <action id="EditorTab" />
+      <typing text-keycode="93:1">}</typing>
+      <action id="EditorEnter" />
+      <typing text-keycode="83:0">s</typing>
+      <action id="EditorEnter" />
+      <action id="EditorBackSpace" />
+      <action id="EditorBackSpace" />
+      <action id="EditorTab" />
+      <action id="EditorEnter" />
+      <action id="EditorTab" />
+      <typing text-keycode="45:1;45:1;77:1;65:1;71:1;73:1;67:1;49:0;57:1;48:1;91:1">__MAGIC1(){</typing>
+      <action id="EditorEnter" />
+      <action id="EditorTab" />
+      <action id="EditorEnter" />
+      <action id="EditorTab" />
+      <typing text-keycode="91:1">{</typing>
+      <action id="EditorBackSpace" />
+      <typing text-keycode="93:1">}</typing>
+      <action id="EditorUp" />
+      <action id="EditorTab" />
+    </macro>
+  </component>
+</application>

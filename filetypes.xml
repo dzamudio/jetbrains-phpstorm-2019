@@ -1,0 +1,12 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <removed_mapping ext="asp" approved="true" type="ASP" />
+      <mapping pattern=".report_sfd.php.swp" type="PHP" />
+      <mapping ext="asp" type="PHP" />
+      <mapping ext="woff2" type="XML" />
+      <mapping ext="ttf" type="XML" />
+      <removed_mapping ext="asp" approved="true" type="ASP" />
+    </extensionMap>
+  </component>
+</application>
